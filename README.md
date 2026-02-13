@@ -62,7 +62,8 @@ Cineplex/
 
 ## 📸 Screenshots
 
-<img width="1898" height="1054" alt="image" src="https://github.com/user-attachments/assets/aa76b5ff-239c-47af-aa28-d60d9fc1e9dd" />
+<img width="1896" height="955" alt="image" src="https://github.com/user-attachments/assets/e4fe461f-76f5-4e98-bd37-b7bfa7678596" />
+
 
 
 ---
